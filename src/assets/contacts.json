@@ -13,8 +13,16 @@
       },
       "dob": { "date": "1998-08-15T21:51:07.652Z", "age": 24 },
       "registered": { "date": "2005-09-17T11:13:16.647Z", "age": 17 },
-      "phone": "(169)-709-8011",
-      "cell": "(253)-814-7526",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "(169)-709-8011"
+        },
+        {
+          "type": "cell",
+          "number": "(253)-814-7526"
+        }
+      ],
       "id": { "name": "", "value": null },
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/66.jpg",
@@ -36,8 +44,16 @@
       },
       "dob": { "date": "1972-01-21T18:32:17.525Z", "age": 50 },
       "registered": { "date": "2006-08-10T03:19:08.504Z", "age": 16 },
-      "phone": "011-914-9835",
-      "cell": "081-659-2983",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "011-914-9835"
+        },
+        {
+          "type": "cell",
+          "number": "081-659-2983"
+        }
+      ],
       "id": { "name": "PPS", "value": "2606290T" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/98.jpg",
@@ -59,8 +75,16 @@
       },
       "dob": { "date": "1955-08-07T00:12:54.063Z", "age": 67 },
       "registered": { "date": "2012-02-02T15:49:49.253Z", "age": 10 },
-      "phone": "031-6711-755",
-      "cell": "062-1291-471",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "031-6711-755"
+        },
+        {
+          "type": "cell",
+          "number": "062-1291-471"
+        }
+      ],
       "id": { "name": "SID", "value": "297566153" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/33.jpg",
@@ -82,8 +106,16 @@
       },
       "dob": { "date": "1970-10-19T17:33:36.209Z", "age": 52 },
       "registered": { "date": "2020-04-02T07:53:39.889Z", "age": 2 },
-      "phone": "(097) T89-8296",
-      "cell": "(066) C70-8154",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "(097) T89-8296"
+        },
+        {
+          "type": "cell",
+          "number": "(066) C70-8154"
+        }
+      ],
       "id": { "name": "", "value": null },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/76.jpg",
@@ -105,8 +137,16 @@
       },
       "dob": { "date": "1959-08-27T06:45:52.024Z", "age": 63 },
       "registered": { "date": "2018-06-29T02:24:25.442Z", "age": 4 },
-      "phone": "T37 R30-2618",
-      "cell": "I66 V35-8328",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "T37 R30-2618"
+        },
+        {
+          "type": "cell",
+          "number": "I66 V35-8328"
+        }
+      ],
       "id": { "name": "SIN", "value": "488562489" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/40.jpg",
@@ -128,8 +168,16 @@
       },
       "dob": { "date": "1993-12-13T05:37:16.017Z", "age": 28 },
       "registered": { "date": "2011-04-09T21:46:57.874Z", "age": 11 },
-      "phone": "03-1795-7753",
-      "cell": "0428-974-083",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "03-1795-7753"
+        },
+        {
+          "type": "cell",
+          "number": "0428-974-083"
+        }
+      ],
       "id": { "name": "TFN", "value": "376297615" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/50.jpg",
@@ -151,8 +199,16 @@
       },
       "dob": { "date": "1982-09-08T21:55:56.906Z", "age": 40 },
       "registered": { "date": "2005-12-08T12:08:51.688Z", "age": 16 },
-      "phone": "7580182000",
-      "cell": "8709626934",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "7580182000"
+        },
+        {
+          "type": "cell",
+          "number": "8709626934"
+        }
+      ],
       "id": { "name": "UIDAI", "value": "156687925791" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/87.jpg",
@@ -174,8 +230,16 @@
       },
       "dob": { "date": "1956-12-17T14:56:52.018Z", "age": 65 },
       "registered": { "date": "2002-05-20T10:03:29.350Z", "age": 20 },
-      "phone": "077 874 26 68",
-      "cell": "076 603 04 39",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "077 874 26 68"
+        },
+        {
+          "type": "cell",
+          "number": "076 603 04 39"
+        }
+      ],
       "id": { "name": "AVS", "value": "756.3593.4231.85" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/61.jpg",
@@ -197,8 +261,16 @@
       },
       "dob": { "date": "1971-12-23T18:40:22.442Z", "age": 50 },
       "registered": { "date": "2005-03-21T13:49:15.579Z", "age": 17 },
-      "phone": "(631) 504 6302",
-      "cell": "(616) 156 7706",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "(631) 504 6302"
+        },
+        {
+          "type": "cell",
+          "number": "(616) 156 7706"
+        }
+      ],
       "id": { "name": "NSS", "value": "51 10 71 3444 6" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/55.jpg",
@@ -220,8 +292,16 @@
       },
       "dob": { "date": "1989-01-10T21:31:23.055Z", "age": 33 },
       "registered": { "date": "2018-02-21T02:13:42.492Z", "age": 4 },
-      "phone": "(485)-994-0955",
-      "cell": "(660)-196-7021",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "(485)-994-0955"
+        },
+        {
+          "type": "cell",
+          "number": "(660)-196-7021"
+        }
+      ],
       "id": { "name": "", "value": null },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/73.jpg",
@@ -243,8 +323,16 @@
       },
       "dob": { "date": "1950-11-22T04:49:21.698Z", "age": 71 },
       "registered": { "date": "2018-03-12T11:27:40.344Z", "age": 4 },
-      "phone": "L66 Z54-8704",
-      "cell": "J89 A56-8132",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "L66 Z54-8704"
+        },
+        {
+          "type": "cell",
+          "number": "J89 A56-8132"
+        }
+      ],
       "id": { "name": "SIN", "value": "349140582" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/13.jpg",
@@ -266,8 +354,16 @@
       },
       "dob": { "date": "1983-04-14T00:15:30.047Z", "age": 39 },
       "registered": { "date": "2014-08-13T21:15:41.575Z", "age": 8 },
-      "phone": "021-491-0586",
-      "cell": "081-406-1471",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "021-491-0586"
+        },
+        {
+          "type": "cell",
+          "number": "081-406-1471"
+        }
+      ],
       "id": { "name": "PPS", "value": "9824950T" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/82.jpg",
@@ -289,8 +385,16 @@
       },
       "dob": { "date": "1960-09-02T22:07:45.349Z", "age": 62 },
       "registered": { "date": "2003-11-09T01:27:30.403Z", "age": 18 },
-      "phone": "(375) 767-3485",
-      "cell": "(820) 295-7020",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "(375) 767-3485"
+        },
+        {
+          "type": "cell",
+          "number": "(820) 295-7020"
+        }
+      ],
       "id": { "name": "SSN", "value": "806-39-9733" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/24.jpg",
@@ -312,8 +416,16 @@
       },
       "dob": { "date": "1976-05-28T01:50:24.680Z", "age": 46 },
       "registered": { "date": "2008-02-25T22:02:32.500Z", "age": 14 },
-      "phone": "078 412 05 39",
-      "cell": "078 081 97 25",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "078 412 05 39"
+        },
+        {
+          "type": "cell",
+          "number": "078 081 97 25"
+        }
+      ],
       "id": { "name": "AVS", "value": "756.0661.1634.61" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/91.jpg",
@@ -335,8 +447,16 @@
       },
       "dob": { "date": "1997-03-22T18:06:52.257Z", "age": 25 },
       "registered": { "date": "2002-12-07T14:40:21.797Z", "age": 19 },
-      "phone": "(813)-308-6220",
-      "cell": "(338)-766-4436",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "(813)-308-6220"
+        },
+        {
+          "type": "cell",
+          "number": "(338)-766-4436"
+        }
+      ],
       "id": { "name": "", "value": null },
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/84.jpg",
@@ -358,8 +478,16 @@
       },
       "dob": { "date": "1978-07-27T08:27:22.641Z", "age": 44 },
       "registered": { "date": "2006-05-13T12:52:47.682Z", "age": 16 },
-      "phone": "K86 S07-7642",
-      "cell": "H38 M37-3242",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "K86 S07-7642"
+        },
+        {
+          "type": "cell",
+          "number": "H38 M37-3242"
+        }
+      ],
       "id": { "name": "SIN", "value": "997974217" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/48.jpg",
@@ -381,8 +509,16 @@
       },
       "dob": { "date": "1983-04-11T23:05:45.833Z", "age": 39 },
       "registered": { "date": "2012-02-26T02:50:44.519Z", "age": 10 },
-      "phone": "0207-9198580",
-      "cell": "0171-8054774",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "0207-9198580"
+        },
+        {
+          "type": "cell",
+          "number": "0171-8054774"
+        }
+      ],
       "id": { "name": "SVNR", "value": "18 110483 E 881" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/85.jpg",
@@ -404,8 +540,16 @@
       },
       "dob": { "date": "1989-07-30T02:59:07.606Z", "age": 33 },
       "registered": { "date": "2003-01-09T04:02:59.294Z", "age": 19 },
-      "phone": "(849)-007-7130",
-      "cell": "(058)-129-1510",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "(849)-007-7130"
+        },
+        {
+          "type": "cell",
+          "number": "(058)-129-1510"
+        }
+      ],
       "id": { "name": "", "value": null },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/55.jpg",
@@ -427,8 +571,16 @@
       },
       "dob": { "date": "2000-08-11T10:01:57.942Z", "age": 22 },
       "registered": { "date": "2016-09-10T15:13:17.780Z", "age": 6 },
-      "phone": "078 841 82 23",
-      "cell": "077 904 75 78",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "078 841 82 23"
+        },
+        {
+          "type": "cell",
+          "number": "077 904 75 78"
+        }
+      ],
       "id": { "name": "AVS", "value": "756.2435.1386.25" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/86.jpg",
@@ -450,8 +602,16 @@
       },
       "dob": { "date": "1977-09-03T08:02:23.682Z", "age": 45 },
       "registered": { "date": "2014-10-03T21:24:19.684Z", "age": 8 },
-      "phone": "914-823-379",
-      "cell": "663-523-402",
+      "numbers": [
+        {
+          "type": "phone",
+          "number": "914-823-379"
+        },
+        {
+          "type": "cell",
+          "number": "663-523-402"
+        }
+      ],
       "id": { "name": "DNI", "value": "17568261-O" },
       "picture": {
         "large": "https://randomuser.me/api/portraits/men/9.jpg",
