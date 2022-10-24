@@ -1,5 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
 import ContactCard from './components/ContactCard';
 import './App.css';
 import contacts from "./assets/contacts.json";
@@ -7,7 +5,7 @@ import contacts from "./assets/contacts.json";
 function App() {
   return (
     <div className="bg-gray-800">
-      <section>
+      <section className="p-20 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
         <ContactCard contacts={contacts}/>
       </section>
     </div>
